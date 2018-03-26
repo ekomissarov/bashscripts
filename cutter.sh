@@ -28,7 +28,12 @@ else
         then
             rm $fileout
         else
-            head -n 1 $1 > $fileout
+            if [ $i -ne 1 ] 
+            then
+                head -n 1 $1 > $fileout
+            else
+                rm $fileout
+            fi
         fi
         
         sed -n "$diap" $1 >> "$fileout"
@@ -45,6 +50,4 @@ fi
 #echo "Line #$count: $line"
 #count=$(( $count + 1 ))
 #done
-
-
 
