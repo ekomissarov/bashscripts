@@ -36,7 +36,7 @@ cat file | sed 's/http/https/' или sed 's/http/https/' < filein.txt
 
 
 -----------------------------------------------
-Для любознательных:
+Дополнительные материалы по теме:
 https://habr.com/ru/company/ruvds/blog/325522/
 курс лекций https://www.youtube.com/watch?v=k3agFfyYQvI&list=PL6kSdcHYB3x4_3Ixyd1yT4D3qCJgdqpII
 а там https://www.youtube.com/watch?v=krCPHezjvNg&list=PL6kSdcHYB3x4_3Ixyd1yT4D3qCJgdqpII&index=6 и 
