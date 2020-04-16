@@ -1,4 +1,6 @@
 Ссылки на источники: https://proglib.io/p/git-for-half-an-hour/
+https://maryrosecook.com/blog/post/git-from-the-inside-out
+https://www.youtube.com/watch?v=uYHUMBmr0kA&list=PL6kSdcHYB3x7PlJv2YoNlx2l1kINq7Uws
 
 --------------------------Установка:
 sudo apt-get install git
